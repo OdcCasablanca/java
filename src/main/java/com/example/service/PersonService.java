@@ -23,21 +23,21 @@ public class PersonService {
 		p.setId("2");
 		p.setAge(25);
 		p.setFirstName("Mohammed");
-		p.setLastName("Shalaby");
+		p.setLastName("Mohammed");
 		persons.add(p);
 		
 		p = new Person();
 		p.setId("3");
 		p.setAge(25);
-		p.setFirstName("Basem");
-		p.setLastName("Salama");
+		p.setFirstName("Salma");
+		p.setLastName("Salma");
 		persons.add(p);
 		
 		p = new Person();
 		p.setId("4");
 		p.setAge(25);
-		p.setFirstName("AbdulHalim");
-		p.setLastName("Mahmoud");
+		p.setFirstName("test");
+		p.setLastName("test");
 		persons.add(p);
 		
 	}
